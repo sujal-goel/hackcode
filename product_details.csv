@@ -1,0 +1,38 @@
+Category,Item Name,Quantity,Price
+Fruits,apples,5,1.99
+Fruits,Bananas,3,0.75
+Fruits,Oranges,4,1.50
+Fruits,Blueberries,1,4.50
+Fruits,Pineapple,1,2.75
+Vegetables,Tomatoes,0.5,3.25
+Vegetables,Potatoes,3,2.00
+Vegetables,Spinach,0.75,2.99
+Vegetables,Carrots,2,1.25
+Vegetables,Onions,1,1.00
+Vegetables,Broccoli,1,2.49
+Vegetables,Cucumber,3,0.99
+Vegetables,Bell Peppers,2,1.50
+Dairy,Milk,2,2.50
+Dairy,Cheese,1,4.50
+Dairy,Yogurt,3,1.75
+Dairy,Butter,1,3.75
+Dairy,Sour Cream,1,1.99
+Meat,Chicken Breast,2,6.99
+Meat,Ground Beef,1,5.99
+Meat,Salmon,0.5,8.99
+Meat,Shrimp,0.75,7.99
+Meat,Ground Turkey,1,5.49
+Bakery,Bread,1,1.99
+Bakery,Cereal,1,3.49
+Bakery,Pasta,2,1.25
+Bakery,Rice,4,2.50
+Beverages,Coffee,1,4.99
+Beverages,Orange Juice,2,3.00
+Beverages,Soda,6,1.25
+Beverages,Watermelon,1,4.00
+Snacks,Chocolate,3,2.25
+Snacks,Almonds,0.5,4.99
+Snacks,Avocado,2,1.75
+Snacks,Ice Cream,1,5.50
+Condiments,Olive Oil,1,6.50
+Condiments,Honey,1,3.99
